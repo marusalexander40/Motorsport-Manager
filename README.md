@@ -229,4 +229,4 @@ Motorsport Manager is available as a full free version with all features and upd
 Don't miss your chance to lead your Formula 1 team to victory! Download Motorsport Manager today and start your journey as a motorsport manager!
 
 ---
-**Last updated:** 2026-09-23 11:01:43 UTC
+**Last updated:** 2026-09-23 16:23:04 UTC
